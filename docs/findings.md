@@ -59,4 +59,4 @@ Future iterations should:
 
 ## Scope and limitations
 
-The current study was single-session and included eight participants. Signals were logged locally rather than transmitted to remote family members. The findings therefore describe early learnability, interpretation, and perceived use—not long-term adoption or real-world family communication outcomes.
+The current study was single-session and included eight participants. Signals were logged locally rather than transmitted to remote family members. The findings therefore describe early learnability, interpretation, and perceived use. More long-term adoption or real-world family communication outcomes can be validate in future study.
