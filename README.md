@@ -43,7 +43,18 @@ The current prototype includes:
 - Push button for mode selection and sending.
 - Vibration motor for haptic confirmation.
 - 3D-printed pedestal enclosure with a crystal-ball orb.
-- An alternative color set for participants with color-vision deficiency.
+- Multiple firmware versions for different color-display needs.
+
+### Firmware versions
+
+The `firmware/` folder contains two versions of the Family Orb firmware:
+
+| Version | Description |
+|---|---|
+| `rainbow_version.ino` | Uses a broader rainbow color palette for general prototype testing. |
+| `blueyellow_version.ino` | Uses a blue-and-yellow color palette as an alternative for users with color-vision deficiency. |
+
+The blue-and-yellow version is intended to reduce reliance on a broad range of hue distinctions. However, color should not be the only way to communicate meaning. Future versions should also explore brightness, flicker patterns, labels, and haptic feedback so that signals remain understandable across different visual abilities.
 
 During the usability study, signals were logged locally instead of being transmitted to remote family members. The communication network is part of future development.
 
