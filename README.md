@@ -108,26 +108,16 @@ Future work should use participatory co-design with the communities who may use 
 family-orb/
 ├── README.md
 ├── docs/
-│   ├── concept.md
-│   ├── research-questions.md
 │   ├── findings.md
-│   └── accessibility.md
+│   └── interaction-flow.md
 ├── firmware/
-│   ├── family_orb.ino
+│   ├── blueyellow_version.ino
+│   ├── rainbow_version.ino
 │   └── README.md
-├── hardware/
-│   ├── bill-of-materials.md
-│   ├── wiring.md
-│   └── enclosure.md
-├── study-materials/
-│   ├── usability-script.md
-│   └── survey-questions.md
-├── analysis/
-│   └── README.md
-├── data/
-│   └── README.md
-└── media/
-    └── README.md
+└── hardware/
+    ├── images/
+    └── enclosure.md
+
 ```
 
 ## Privacy and Research Ethics
